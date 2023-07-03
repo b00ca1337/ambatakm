@@ -1,6 +1,3 @@
-CONFIG_OBF
-;process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
-
 const fs = require("fs")
 const electron = require("electron")
 const https = require("https");
